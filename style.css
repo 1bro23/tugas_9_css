@@ -1,0 +1,24 @@
+body{
+  background-image:url("https://images6.alphacoders.com/568/thumb-1920-568794.jpg");
+  float:right;
+  position:relative;
+}
+div{
+  width:775px;
+  background-color:white;
+  text-align:right;
+  padding:10px;
+  position:absolute;
+  right:0px;
+  z-index:2;
+  }
+p{
+  font-weight:bold;
+}
+img{
+  float:left;
+  z-index:5;
+  position:absolute;
+  right:0px;
+  z-index:1;
+}
